@@ -8,6 +8,7 @@ import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
 import android.media.ExifInterface;
 import android.provider.MediaStore;
+import android.support.v4.app.ActivityCompat;
 
 import androidx.core.app.ActivityCompat;
 
